@@ -1,0 +1,25 @@
+{
+  "title": "传媒板块成份与跌幅页的关联采集",
+  "category": "行业分类资料",
+  "choice": "板块",
+  "revision": "成份版本",
+  "detail_label": "股票列表",
+  "entity": "板块与成份",
+  "fact": "成份归属",
+  "items": [
+    {
+      "id": "sector-media-a",
+      "name": "传媒板块",
+      "group": "甲",
+      "detail": "股票列表甲",
+      "changed_detail": "股票列表修订甲"
+    },
+    {
+      "id": "sector-media-b",
+      "name": "通信板块",
+      "group": "乙",
+      "detail": "股票列表乙",
+      "changed_detail": "股票列表修订乙"
+    }
+  ]
+}
