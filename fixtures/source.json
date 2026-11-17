@@ -12,14 +12,26 @@
       "name": "传媒板块",
       "group": "甲",
       "detail": "股票列表甲",
-      "changed_detail": "股票列表修订甲"
+      "changed_detail": "股票列表修订甲",
+      "trade_date": "2026-11-17",
+      "sector_revision": "sector-1",
+      "members": [
+        "传媒样本甲",
+        "传媒样本乙"
+      ]
     },
     {
       "id": "sector-media-b",
       "name": "通信板块",
       "group": "乙",
       "detail": "股票列表乙",
-      "changed_detail": "股票列表修订乙"
+      "changed_detail": "股票列表修订乙",
+      "trade_date": "2026-11-17",
+      "sector_revision": "sector-1",
+      "members": [
+        "传媒样本甲",
+        "传媒样本乙"
+      ]
     }
   ]
 }
